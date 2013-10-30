@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.summary  = 'A custom iOS status bar overlay seen in Apps like Reeder, Evernote and Google Mobile App.'
   s.homepage = 'https://github.com/myell0w/MTStatusBarOverlay'
   s.author   = { 'Matthias Tretter' => 'myell0w@me.com' }
-  s.source   = { :git => 'https://github.com/myell0w/MTStatusBarOverlay.git', :tag => '0.9' }
+  s.source   = { :git => 'https://github.com/myell0w/MTStatusBarOverlay.git'}
 
   s.description = 'This class provides a custom iOS (iPhone + iPad) status bar overlay window known from '  \
                   'Apps like Reeder, Google Mobile App or Evernote. It currently supports touch-handling, ' \
